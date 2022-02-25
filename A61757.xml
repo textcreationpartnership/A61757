@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange and wonderful news from Bristol being a true relation, how several sheep were found killed near that city, their bellies being ript open, and their fat only taken out of them, all the rest of the carcass being left entire, in order (as it is to be feared) to the kindling more dreadful fires, for carrying on the horrid and damnable Popish Plot and conspiracy for the destruction of His Majesty, and the Protestant religion and government now establisht by law : together, with the examinations taken thereupon, before Sir John Lloyd Mayor, Sir Robert Cann, Mr. Alderman Yates, Capt. William Bedloe, and Sheriff Jackson, and many other of the most eminent citizens of Bristol.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61757</idno>
+            <idno type="STC">Wing S5852</idno>
+            <idno type="STC">ESTC R21334</idno>
+            <idno type="EEBO-CITATION">12296719</idno>
+            <idno type="OCLC">ocm 12296719</idno>
+            <idno type="VID">59045</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59045)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 927:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange and wonderful news from Bristol being a true relation, how several sheep were found killed near that city, their bellies being ript open, and their fat only taken out of them, all the rest of the carcass being left entire, in order (as it is to be feared) to the kindling more dreadful fires, for carrying on the horrid and damnable Popish Plot and conspiracy for the destruction of His Majesty, and the Protestant religion and government now establisht by law : together, with the examinations taken thereupon, before Sir John Lloyd Mayor, Sir Robert Cann, Mr. Alderman Yates, Capt. William Bedloe, and Sheriff Jackson, and many other of the most eminent citizens of Bristol.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1678?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:59045:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:59045:1"/>
+            <!-- PDF PAGE 19 -->
+            <head>Strange and Wonderful NEWS FROM BRISTOL BEING A True Relation, how ſeveral <hi>Sheep</hi> were found <hi>Killed</hi> near that City; their <hi>Bellies being Ript Open,</hi> and their <hi>Fat only taken out of them;</hi> all the reſt of the <hi>Carcaſs</hi> being leſt entire, in order (as it is to be <hi>Feared</hi>) to the Kindling more <hi>Dreadful Fires,</hi> for carrying on the Horrid and Damnable <hi>Popiſh Plot</hi> and <hi>Conſpiracy</hi> for the Deſtruction of His <hi>Majeſty,</hi> and the <hi>Proteſtant Religion</hi> and <hi>Government</hi> now Eſtabliſht by Law.</head>
+            <head type="sub">Together, With the Examinations taken thereupon, be<g ref="char:EOLhyphen"/>fore Sir <hi>John Lloyd</hi> Mayor, Sir <hi>Robert Cann,</hi> Mr. Alderman <hi>Yates,</hi> Capt. <hi>William Bedloe,</hi> and Sheriff <hi>Jackſon,</hi> and many o<g ref="char:EOLhyphen"/>ther of the moſt Eminent Citizens of <hi>Briſtol.</hi>
+            </head>
+            <p>THoſe Damnable and Helliſh Popiſh Con<g ref="char:EOLhyphen"/>ſpirators, who have Deſigned the Deſtruc<g ref="char:EOLhyphen"/>tion of His Majeſty and Government, and the Religion of this Nation now by Law Eſtabliſht, have found no way more Effectual for carrying on this their Horrid Plot, than Fireing; and thereby Impoveriſhing the Famous City of <hi>London,</hi> and alſo the moſt Conſiderable Cities and Market To<gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb facs="tcp:59045:2"/>
+               <!-- PDF PAGE 20 -->
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Kingdom; againſt ſome of which they have to Effectually ſucceeded in their Villany, and have Deſigned it againſt all the reſt; and this they have performed by ſeveral Wayes and Methods; of which Captain <hi>William Bedloe</hi> hath given a very large and ſa<g ref="char:EOLhyphen"/>tisfactory Account, in the late Impartial Narrative of the Fires of <hi>London, Weſtminſter, Southwark,</hi> and the parts <hi>Adjacent,</hi> publiſhed by him.</p>
+            <p>And among the ſeveral Wayes whereby they per<g ref="char:EOLhyphen"/>petrated their Miſchiefs; One uſual Method was, By Throwing Fire-Balls into Houſes, Windows, or any other place where there was Combuſtible matter fit for their purpoſe: which Fire-Balls were compounded of ſeveral Ingredients; and among the reſt, we hear that they generally uſed a great quantity of <hi>Sheeps-Fat</hi> taken from the <hi>Cawl</hi> and <hi>Kidneys;</hi> and upon this Ac<g ref="char:EOLhyphen"/>count we may well ſuppoſe the Reaſon why we have heard of ſo many <hi>Sheep</hi> that have been found Killed in the Fields, having nothing taken from them but only their <hi>Fat:</hi> And this has been done ſeveral Times, and in many Places of this Kingdom, diverſe having been found <hi>Dead</hi> in the ſame manner in and about <hi>London,</hi> awhile before the <hi>Dreadful Burning</hi> thereof; as alſo a<g ref="char:EOLhyphen"/>bout <hi>Northampton</hi> before the <hi>Fire</hi> thereof: Yea, ſome <hi>Sheep</hi> (not many Months ſince) have been found in the ſame Poſture in the County of <hi>Surrey,</hi> not above Seven or Eight Miles from <hi>London.</hi>
+            </p>
+            <p>And for the further Confirmation of theſe their Wicked Practices, we ſhall now give you this Brief, but True Account, That upon <hi>Thurſday</hi> the Twenty Fourth of this inſtant <hi>July,</hi> near the City of <hi>Briſtol,</hi> there were <hi>Five Sheep</hi> found <hi>Dead</hi> in the Fields, with their <hi>Bellies ript open,</hi> and all their <hi>Kidney-Fat</hi> taken out of them, and the <hi>Carcaſs</hi> and <hi>Skin,</hi> with all the <hi>Quar<g ref="char:EOLhyphen"/>ters,</hi> was left entire upon the Ground.</p>
+            <p>Upon the Report of this Miſchief, there was Com<g ref="char:EOLhyphen"/>plaint made to the Magiſtrates of the City of <hi>Briſtol,</hi> ſince it was to be Feared it might prove Dangerous,
+<pb facs="tcp:59045:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 20 -->becauſe there were <hi>Three St<gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>p</hi> 
+               <gap reason="illegible: damage" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ides  <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Killed</hi> in the ſame manner but the <hi>Thurſday</hi> before this that is, upon the Seventeenth of this Month: Whereupon the Mayor of <hi>Briſtol,</hi> with ſeveral Aldermen of the ſame City, and alſo Captain <hi>William Bedloe,</hi> took the ſame into their ſerious Conſideration, and made a ſtrict En<g ref="char:EOLhyphen"/>quiry into the Buſineſs; and finding the thing to be True, that ſo many <hi>Sheep</hi> had been really deſtroyed, and found <hi>Dead</hi> in the manner aforementioned; they immediately iſſued out Orders, That the <hi>Common Watch</hi> uſually belonging to the City, ſhould be <hi>Double</hi> the <hi>Number</hi> as formerly; and that Six of the moſt Con<g ref="char:EOLhyphen"/>ſiderable and Subſtantial <hi>Houſe-keepers</hi> in each <hi>Pariſh,</hi> ſhould <hi>Watch</hi> every Night in their <hi>Own Perſons,</hi> till further Order to the Contrary: And that all poſſible Care ſhould be taken by all means, to endeavor to Seize upon theſe Wretched Incendiaries, that ſo they might be brought to Condign Puniſhment for theſe their Curſed Attempts.</p>
+            <p>And the Reaſon of this Order was, Becauſe, as we mentioned before, the like Wicked Practices were uſed before the <hi>Fires</hi> of <hi>London, Southwark,</hi> and other Places; For we are told, That this <hi>Sheeps Fat,</hi> with other <hi>Com<g ref="char:EOLhyphen"/>pounds</hi> made up into <hi>Fire-Balls,</hi> are of an Extraordinary furious Burning Quality; ſo that when they are once Kindled, they cannot be Quenched, till they go out of themſelves: And where they are Thrown, they Stick ſo faſt, as not to be Removed, till they have wrought their Curſed Effect.</p>
+            <p>This Relation is moſt certainly True; and we hope, may Warn us to have a Care of the Curſed Doctrines and Practices of the <hi>Romiſh Church,</hi> who allow of <hi>Firings, Murtherings, Poyſoning,</hi> and all other Villanies whatſoever, if it may any way promote their Damnable Cauſe and Intereſt.</p>
+            <p>And now Dear Country-men, ſince your Lives, Liberties, and Eſtates, are once more put into your own Hands, Let it be your greateſt care in the <hi>Choice</hi>
+               <pb n="4" facs="tcp:59045:3"/>
+               <!-- PDF PAGE 21 -->of your <hi>Repreſentatives,</hi> for the enſuing <hi>Parliament,</hi> ſince a Miſcarriage herein, may never be Retrieved: Chuſe men of <hi>Honeſty, Sobriety</hi> and <hi>Courage;</hi> thoſe that may Stand by His Majeſty for the Defence of his Sacred Perſon, and the Proteſtant Religion and Government Eſtabliſhed; Thoſe that may not be Afraid to Search into the Bottom of this Damnable Helliſh Plot and Conſpiracy, to Deſtroy His Majeſty, and the Laws; Such as may make Proviſion, that we may not leave a Religion of Blood, Villany, and Slavery to our Poſterity: Let not him be counted the Fitteſt man for your Choice, who gives you the moſt <hi>Drink,</hi> and ſpends the moſt <hi>Money;</hi> leſt like Curſed <hi>Eſau,</hi> you ſell your Birth-right for a Meſs of <hi>Pottage,</hi> and Eſtabliſh Slavery by a Law: Which God in his great Mercy pre<g ref="char:EOLhyphen"/>vent. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
